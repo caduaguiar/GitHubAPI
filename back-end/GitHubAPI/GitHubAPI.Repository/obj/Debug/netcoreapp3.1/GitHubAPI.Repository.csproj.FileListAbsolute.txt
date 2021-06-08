@@ -1,0 +1,9 @@
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\bin\Debug\netcoreapp3.1\GitHubAPI.Repository.deps.json
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\bin\Debug\netcoreapp3.1\GitHubAPI.Repository.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\bin\Debug\netcoreapp3.1\GitHubAPI.Repository.pdb
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.csprojAssemblyReference.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.AssemblyInfoInputs.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.AssemblyInfo.cs
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.Repository\obj\Debug\netcoreapp3.1\GitHubAPI.Repository.pdb

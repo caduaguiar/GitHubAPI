@@ -1,0 +1,9 @@
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\bin\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.deps.json
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\bin\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\bin\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.pdb
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.csprojAssemblyReference.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.AssemblyInfoInputs.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.AssemblyInfo.cs
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.CrossCutting\obj\Debug\netcoreapp3.1\GitHubAPI.CrossCutting.pdb
