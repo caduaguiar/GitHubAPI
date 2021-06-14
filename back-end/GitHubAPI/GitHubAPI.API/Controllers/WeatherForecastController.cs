@@ -28,7 +28,7 @@ namespace GitHubAPI.API.Controllers
         public IEnumerable<WeatherForecast> Get()
         {
             GitHubService gitHubService = new GitHubService();
-            gitHubService.Repos();
+            gitHubService.GetUsersSince(DateTime.Now);
 
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast

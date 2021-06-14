@@ -24,10 +24,13 @@ namespace GitHubAPI.Service
 
             var request = new SearchUsersRequest("dhh")
             {
-                Created = DateRange.GreaterThanOrEquals(since)
+                //Created = DateRange.GreaterThanOrEquals(since)
+                Created = DateRange.GreaterThanOrEquals(new DateTime(2021, 06,12))
             };
 
             var result = await github.Search.SearchUsers(request);
+
+            var aux = 10;
         }
 
         // Step 1-3
