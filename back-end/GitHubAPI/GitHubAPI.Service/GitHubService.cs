@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Octokit;
 
 namespace GitHubAPI.Service
@@ -15,7 +13,7 @@ namespace GitHubAPI.Service
         }
 
         // Step 1-2
-        public async void Details(string username = "caduaguiar")
+        public async void GetDetails(string username = "caduaguiar")
         {
             var user = await github.User.Get(username);
         }
@@ -33,7 +31,7 @@ namespace GitHubAPI.Service
         }
 
         // Step 1-3
-        public async void Repos(string username = "caduaguiar")
+        public async void GetRepos(string username = "caduaguiar")
         {
             var repos = await github.Repository.GetAllForUser(username);
         }
