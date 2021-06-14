@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GitHubAPI.Service;
 
 namespace GitHubAPI.API.Controllers
 {
@@ -26,6 +27,9 @@ namespace GitHubAPI.API.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            GitHubService gitHubService = new GitHubService();
+            gitHubService.Repos();
+
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
@@ -34,6 +38,8 @@ namespace GitHubAPI.API.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+
+           
         }
     }
 }

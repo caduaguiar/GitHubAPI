@@ -18,3 +18,7 @@ C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\obj\Deb
 C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\obj\Debug\netcoreapp3.1\GitHubAPI.API.dll
 C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\obj\Debug\netcoreapp3.1\GitHubAPI.API.pdb
 C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\obj\Debug\netcoreapp3.1\GitHubAPI.API.genruntimeconfig.cache
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\bin\Debug\netcoreapp3.1\Octokit.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\bin\Debug\netcoreapp3.1\GitHubAPI.Service.dll
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\bin\Debug\netcoreapp3.1\GitHubAPI.Service.pdb
+C:\Projects\Pessoal\GithubAPI\GitHubAPI\back-end\GitHubAPI\GitHubAPI.API\obj\Debug\netcoreapp3.1\GitHubAPI.API.csproj.CopyComplete

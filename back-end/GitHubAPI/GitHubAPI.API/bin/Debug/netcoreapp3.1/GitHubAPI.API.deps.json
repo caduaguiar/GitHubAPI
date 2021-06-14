@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "GitHubAPI.API/1.0.0": {
         "dependencies": {
+          "GitHubAPI.Service": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -319,6 +320,28 @@
         },
         "compile": {
           "GitHubAPI.API.dll": {}
+        }
+      },
+      "Octokit/0.50.0": {
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "assemblyVersion": "0.50.0.0",
+            "fileVersion": "0.50.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Octokit.dll": {}
+        }
+      },
+      "GitHubAPI.Service/1.0.0": {
+        "dependencies": {
+          "Octokit": "0.50.0"
+        },
+        "runtime": {
+          "GitHubAPI.Service.dll": {}
+        },
+        "compile": {
+          "GitHubAPI.Service.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2017,6 +2040,18 @@
   },
   "libraries": {
     "GitHubAPI.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Octokit/0.50.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J5vqespSvjxIAAtjG1Tc6ghBqyfRgDJtKnk/ifi4N0hD/f3JbPwyEDRT+Eelu/bS4C4M6mu5gt1WJqar+fByzg==",
+      "path": "octokit/0.50.0",
+      "hashPath": "octokit.0.50.0.nupkg.sha512"
+    },
+    "GitHubAPI.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

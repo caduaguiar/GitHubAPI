@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ewZqfX1HsAoYlrv/1nYHODHf8OYj95klfNXYUPWyOqnZDdJTX6lcY7JziE86Ri3RknPvO6Faq08GJZmNVWd3aw==",
+  "dgSpecHash": "6pv5OKrv2QyWwpqw5TwGMvg/nhBn2doWXsjQ5Bk6tE3Qvp2g59CzlR+I7l4kbcS1YtXb98gypxE4VnpMPkzXrg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Pessoal\\GithubAPI\\GitHubAPI\\back-end\\GitHubAPI\\GitHubAPI.API\\GitHubAPI.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Cadu Aguiar\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512"
+  ],
   "logs": []
 }
